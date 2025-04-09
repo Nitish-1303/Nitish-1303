@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yeluru-nitish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeluru nitish" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/yeluru nitish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yeluru nitish" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/25521327/yeluru-nitish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yeluru nitish" height="30" width="40" /></a>
 <a href="https://kaggle.com/yeluru nitish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yeluru nitish" height="30" width="40" /></a>
 <a href="https://fb.com/yeluru nitish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yeluru nitish" height="30" width="40" /></a>
 <a href="https://instagram.com/nitish_1303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitish_1303" height="30" width="40" /></a>
