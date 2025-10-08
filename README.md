@@ -3,7 +3,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZkM2RycWRqaTMwdXdsaGdhcnBwamQ2dGZnOHA3cGJtZWc3a2V2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="500">
 </p>
 
-<h3 align="center">A passionate Front-End Web Developer from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitish-1303&label=Profile%20views&color=0e75b6&style=flat" alt="nitish-1303" /> </p>
 
