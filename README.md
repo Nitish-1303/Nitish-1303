@@ -38,10 +38,14 @@
 <h3 align="center">🎧 Currently Vibing To</h3>
 
 <p align="center">
-  <a href="https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf" target="_blank">
-    <img src="https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+  <a href="https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf">
+    <img src="https://raw.githubusercontent.com/Nitish-1303/Nitish-1303/main/artworks-teRZGSM5THJRa8QW-PxSi1w-t1080x1080.jpg"
+         alt="Lose My Mind - Don Toliver ft. Doja Cat"
+         width="350"
+         style="border-radius:12px;" />
   </a>
 </p>
+
 
 
 
