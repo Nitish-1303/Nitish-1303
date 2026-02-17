@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitish-1303&label=Profile%20views&color=0e75b6&style=flat" alt="nitish-1303" /> </p>
 
-- 🔭 I’m currently working on [YourSRE - An AI Autonomous SRE Engineer]
+- 🔭 I’m currently working on **YourSRE - An AI Autonomous SRE Engineer**
 
 - 🌱 I’m currently learning **Full Stack Web Development, Prompt Engineering**
 
 - 📫 How to reach me **yelurunitish006@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UqVe2-MrXW3swkq8E4jIqA3U-e3kvrrE/view?usp=drive_link](https://drive.google.com/file/d/1UqVe2-MrXW3swkq8E4jIqA3U-e3kvrrE/view?usp=drive_link)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1WMJ1rSP7yxctjljkesiR_sS-x2Ki4LSF/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -64,5 +64,6 @@
 </p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
