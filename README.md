@@ -1,19 +1,108 @@
-<h1 align="center">Hi 👋, I'm Yeluru Nitish</h1>
+<h1 align="center">Hi, I'm Yeluru Nitish</h1>
 
-<!-- Web Dev Banner -->
-![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
+<h3 align="center">
+Full Stack Engineer • AI Engineer • Machine Learning Engineer • Product Engineer • Technical Consultant
+</h3>
 
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitish-1303&label=Profile%20views&color=0e75b6&style=flat" alt="nitish-1303" /> </p>
+## Full Stack Engineer
 
-- 🔭 I’m currently working on **YourSRE - An AI Autonomous SRE Engineer**
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+</p>
 
-- 🌱 I’m currently learning **Full Stack Web Development, Prompt Engineering**
+Building scalable web applications with modern frontend and backend technologies.
 
-- 📫 How to reach me **yelurunitish006@gmail.com**
+## AI Engineer
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1WMJ1rSP7yxctjljkesiR_sS-x2Ki4LSF/view?usp=sharing)
+<p align="center">
+  <img src="https://camo.githubusercontent.com/ba5ca4547cd1fae68029ecd1102d84db693895722b81ba806788b69217fe60dd/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f302a6e68466331704e56502d6f32354276742e676966" width="700"/>
+</p>
+
+Building AI systems with LLMs, RAG pipelines, AI Agents, workflow automation, and intelligent applications.
+
+## Machine Learning Engineer
+
+<p align="center">
+<img src="https://media.giphy.com/media/4FQMuOKR6zQRO/giphy.gif" width="600"/>
+</p>
+
+Developing ML models, data pipelines, and intelligent applications.
+
+---
+
+## Product Engineer
+
+<p align="center">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600"/>
+</p>
+
+Building products from idea to deployment.
+
+---
+
+## Technical Consultant
+
+<p align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
+</p>
+
+Solving technical challenges with scalable architecture and AI solutions.
+
+---
+
+## About Me
+
+Hi, I'm **Yeluru Nitish**, a Full Stack Engineer and AI Engineer passionate about building scalable software products and intelligent AI systems.
+
+## Education
+
+- **B.Tech in Computer Science & Engineering**
+- **Baba Institute of Technology and Sciences, Visakhapatnam**
+- **Graduated: 2025**
+
+## Currently Building
+
+- **Backup-AI** — AI Back Office platform for service businesses
+
+## Engineering Focus
+
+- Full Stack Development
+- Generative AI Applications
+- LLMs, RAG Pipelines & AI Agents
+- Machine Learning Systems
+- Product Engineering
+
+## Tech Stack
+
+- **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express.js, FastAPI
+- **AI:** LLMs, RAG, AI Agents, Prompt Engineering
+- **Databases:** PostgreSQL, MongoDB, Redis
+- **Cloud & DevOps:** AWS, Docker, GitHub Actions, Vercel
+
+## Currently Learning
+
+- Advanced Machine Learning
+- MLOps
+- Kubernetes
+- Distributed Systems
+
+## Open To
+
+- Full Stack Engineer Roles
+- AI Engineer Roles
+- Founding Engineer Opportunities
+- Building AI-First Products
+
+## Connect
+
+🌐 Portfolio: https://nitish-lake.vercel.app  
+💻 GitHub: https://github.com/Nitish-1303  
+💼 LinkedIn: https://linkedin.com/in/yeluru-nitish  
+🧩 LeetCode: https://leetcode.com/u/Nitish-1303/  
+📧 Email: yelurunitish006@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
