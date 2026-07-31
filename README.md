@@ -14,31 +14,6 @@ Full Stack Engineer • AI Engineer • Machine Learning Engineer • Product En
 
 Building scalable web applications with modern frontend and backend technologies.
 
-## AI Engineer
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/ba5ca4547cd1fae68029ecd1102d84db693895722b81ba806788b69217fe60dd/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f302a6e68466331704e56502d6f32354276742e676966" width="700"/>
-</p>
-
-Building AI systems with LLMs, RAG pipelines, AI Agents, workflow automation, and intelligent applications.
-
-## Machine Learning Engineer
-
-<p align="center">
-<img src="https://media.giphy.com/media/4FQMuOKR6zQRO/giphy.gif" width="600"/>
-</p>
-
-Developing ML models, data pipelines, and intelligent applications.
-
----
-
-## Product Engineer
-
-<p align="center">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600"/>
-</p>
-
-Building products from idea to deployment.
 
 ---
 
