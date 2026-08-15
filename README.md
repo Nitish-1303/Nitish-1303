@@ -115,15 +115,13 @@ Hi, I'm **Yeluru Nitish**, a Full Stack Engineer and AI Engineer passionate abou
 
 ## ⚡ GitHub Stats & Streaks
 
-<div align="center">
-  <a href="https://github.com/Nitish-1303">
-    <img
-      src="https://streak-stats.demolab.com?user=Nitish-1303&theme=tokyonight&hide_border=true&border_radius=10"
-      alt="Nitish's GitHub contribution streak"
-      width="500"
-    />
-  </a>
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=Nitish-1303&theme=tokyonight&hide_border=true"
+    alt="Nitish's GitHub streak"
+    width="500"
+  />
+</p>
 
 
 <p align="center">
