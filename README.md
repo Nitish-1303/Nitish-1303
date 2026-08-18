@@ -15,18 +15,6 @@ Full Stack Engineer • AI Engineer • Machine Learning Engineer • Product En
 Building scalable web applications with modern frontend and backend technologies.
 
 
----
-
-## Technical Consultant
-
-<p align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
-</p>
-
-Solving technical challenges with scalable architecture and AI solutions.
-
----
-
 ## About Me
 
 Hi, I'm **Yeluru Nitish**, a Full Stack Engineer and AI Engineer passionate about building scalable software products and intelligent AI systems.
@@ -57,13 +45,6 @@ Hi, I'm **Yeluru Nitish**, a Full Stack Engineer and AI Engineer passionate abou
 - **Databases:** PostgreSQL, MongoDB, Redis
 - **Cloud & DevOps:** AWS, Docker, GitHub Actions, Vercel
 
-## Currently Learning
-
-- Advanced Machine Learning
-- MLOps
-- Kubernetes
-- Distributed Systems
-
 ## Open To
 
 - Full Stack Engineer Roles
@@ -71,12 +52,6 @@ Hi, I'm **Yeluru Nitish**, a Full Stack Engineer and AI Engineer passionate abou
 - Founding Engineer Opportunities
 - Building AI-First Products
 
-## Connect
-
-🌐 Portfolio: https://nitish-lake.vercel.app  
-💻 GitHub: https://github.com/Nitish-1303  
-💼 LinkedIn: https://linkedin.com/in/yeluru-nitish  
-🧩 LeetCode: https://leetcode.com/u/Nitish-1303/  
 📧 Email: yelurunitish006@gmail.com
 
 <h3 align="left">Connect with me:</h3>
@@ -84,7 +59,6 @@ Hi, I'm **Yeluru Nitish**, a Full Stack Engineer and AI Engineer passionate abou
 <a href="https://www.linkedin.com/in/yeluru-nitish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeluru nitish" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/25521327/yeluru-nitish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yeluru nitish" height="30" width="40" /></a>
 <a href="https://www.facebook.com/eluru.nitish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yeluru nitish" height="30" width="40" /></a>
-<a href="https://fb.com/yeluru nitish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yeluru nitish" height="30" width="40" /></a>
 <a href="https://instagram.com/nitish_1303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitish_1303" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@yelurunitish006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@yelurunitish006" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/yelurunitish006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="yeluru nitish" height="30" width="40" /></a>
